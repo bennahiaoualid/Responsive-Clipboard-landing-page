@@ -6,7 +6,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,8 +16,8 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-this is a good way to practise what you have learned as a front-end developper,
-this challenge about designing Clipboard landing page 
+this is a good way to practice what you have learned as a front-end developer,
+this challenge about designing a Clipboard landing page 
 
 ### The challenge
 
@@ -26,11 +25,6 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
-
-### Screenshot
-
-![mobile screen](./screenshots/screenshot1.png)
-![desktop screen](./screenshots/screenshot2.png)
 
 ### Links
 
@@ -45,10 +39,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Font Awsome Icons
+- Font Awesome Icons
 
 ### Continued development
-Keep working with pure CSS to adjust to its properties, such pseudo-elements ,animation and more.
+Keep working with pure CSS to adjust to its properties, such as pseudo-elements, animation, and more.
 
 ### Useful resources
 
